@@ -3,5 +3,7 @@
 To run server 'npm run dev'
 To build in production 'npm run build'
 
-Use frontend as preact
+Use frontend as react
 Tnx
+
+sibaqcamp.vercel.com
