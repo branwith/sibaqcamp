@@ -6,4 +6,4 @@ To build in production 'npm run build'
 Use frontend as react
 Tnx
 
-sibaqcamp.vercel.com
+https://sibaqcamp.vercel.app/
